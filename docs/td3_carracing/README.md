@@ -64,7 +64,7 @@ src/td3_carracing/
 
 项目整体执行流程如下：
 <p float="left">
-   <img src="0.png" width="90%" />
+   <img src="0.png" width="60%" />
 </p>
 
 ---
